@@ -1,0 +1,9 @@
+.localhistory/
+.suo/
+.vs/
+[Bb]in/
+[Oo]bj/
+packages/
+nppBackup/
+.vshistory/
+*.bak
