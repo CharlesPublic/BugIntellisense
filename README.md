@@ -1,4 +1,4 @@
-# BugIntellisense
+# Bug Intellisense
 TEMP Project to show an intellisense bug
 
 Bug: "using statement" suggestions are missing for Extension methods  
